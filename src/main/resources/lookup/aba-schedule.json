@@ -1,0 +1,12 @@
+{
+	"schedule": {
+		"jobId": "NIS-Scrub-v2-fs1",
+		"name": "SampleNumberLookup",
+		"inputFileId": "<inputFileId>",
+		"fileRetentionDays": 1,
+		"scheduleRetentionDays": 1,
+		"outputFileNamingExpression": "Sample",
+		"outputFileFolder": "",
+		"jobRuntimeContext": {}
+	}
+}

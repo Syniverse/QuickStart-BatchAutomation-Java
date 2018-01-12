@@ -1,0 +1,15 @@
+{
+	"schedule": {
+		"jobId": "NIS-Scrub-Monitor-fs1-v1",
+		"name": "SampleLookupAndMonitor",
+		"inputFileId": "<inputFileId>",
+		"fileRetentionDays": 1,
+		"scheduleRetentionDays": 1,
+		"outputFileNamingExpression": "Sample",
+		"outputFileFolder": "",
+		"jobRuntimeContext": {
+			"subscribeevents": "all",
+			"subscribedestinationid": "<deliveryConfigurationId>"
+		}
+	}
+}

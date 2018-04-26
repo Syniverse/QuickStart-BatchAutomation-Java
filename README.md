@@ -6,20 +6,7 @@ https://developer.syniverse.com
 
 You will first need to have an account (create at https://developer.syniverse.com ).
 
-Secondly you will need to have subscribed to the Service Offerings for Developer Community Gateway, Media Service, Batch Automation and Event Manager. 
-
-Do this by going to the Service Offerings tab (https://developer.syniverse.com/index.html#!/service-offerings) , clicking on each service in turn, click on Subscriptions, Click on Subscribe and then select an account from the drop down.
-
-Thirdly you will need to create an application (or update an existing Application )
-
-Do this by going to the Applications tab (https://developer.syniverse.com/index.html#!/applications), click on New application and follow the instructions. You also need to add (or update) the Account & APIs section to turn on the SDC Gateway Services, Media Services, Batch Automation and Event Manager. Lastly re-generate the Auth Keys, and then copy your Access token for use in the Code.
-
-Fourth you will need to create a delivery configuration for the notifications (only required for running "monitor" type jobs)
-
-Do this by going to the Event Manager tab and then to Delivery Configurations (https://developer.syniverse.com/index.html#!/ess/delivery-configurations), click on new Delivery Configuration, and then populate the Name and Address fields (the address is the URL where the notification should be sent to. The other properties can be left the same.
-If you are just trying out the service you may want to try https://requestb.in/ to create an endpoint to receive the notifications.
-
-Once you have created the delivery configuration, the generated "delivery configuration id" value is visible on the main delivery configurations page.
+Ten you should follow the set up instructionss at https://sdcdocumentation.syniverse.com/index.php/batch-automation/quick-start-batch-automation 
 
 ## Setup
 

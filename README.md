@@ -6,7 +6,7 @@ https://developer.syniverse.com
 
 You will first need to have an account (create at https://developer.syniverse.com ).
 
-Ten you should follow the set up instructionss at https://sdcdocumentation.syniverse.com/index.php/batch-automation/quick-start-batch-automation 
+Then you should follow the set up instructionss at https://sdcdocumentation.syniverse.com/index.php/batch-automation/quick-start-batch-automation 
 
 ## Setup
 
